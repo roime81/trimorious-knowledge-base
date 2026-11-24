@@ -13,10 +13,10 @@ dataset_info:
     dtype: string
   splits:
   - name: train
-    num_bytes: 334543
-    num_examples: 301
-  download_size: 147555
-  dataset_size: 334543
+    num_bytes: 775256
+    num_examples: 543
+  download_size: 308660
+  dataset_size: 775256
 configs:
 - config_name: default
   data_files:
